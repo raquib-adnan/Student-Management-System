@@ -2,6 +2,12 @@
 
 A desktop application for managing student records using Python, Tkinter, and SQLite.
 
+## ScreenShot
+
+### Main Screen
+
+![Main Screen](main.png)
+
 ## Features
 
 - Add new students with validation
